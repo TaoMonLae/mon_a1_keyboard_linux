@@ -1,5 +1,6 @@
 # Mon A1 layout for linux
 Mon (mnw) A1 layout for Linux 
+![enter image description here](https://raw.githubusercontent.com/TaoMonLae/mon_a1_keyboard_linux/main/Mon_A1.png)
 ကောန်ဍေၚ်ဏံဂှ်ဒုၚ်သဇိုၚ်လဝ်ကဵု ကောန်ဍေၚ် မၞိဟ်သုၚ်စောဲဂၠိုၚ် ကောန်ဍေၚ် Hi Mon, Mon ဝၚ်က, A=အ တံရ။ 
 မိက်ဂွံသုၚ်စောဲမ္ဂး ဂၠောၚ်ဖျေံ **Repository** ဏံတုဲ **Run** ကဵု **mona1_kb.sh** ပ္ဍဲကဵု **Terminal**တုဲမံၚ်ရ။ 
 
